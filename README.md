@@ -40,6 +40,6 @@
 
 Copyright © 2020-2021 [TutoHacks <tutohacks511@gmail.com>](https://github.com/welovejavascript)
 
-Dieses script ist mit [MIT](https://github.com/welovejavascript/DiscordPanel/license) lizensiert
+Dieses script ist mit [MIT](https://github.com/WeLoveJavaScript/DiscordPanel/blob/main/LICENSE) lizensiert
 
 ***
