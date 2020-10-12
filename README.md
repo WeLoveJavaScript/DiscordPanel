@@ -26,7 +26,7 @@
 
 ### Übersetzungen 🌐
 
-| Author                                                  | Language                 |
+| Author                                                  | Sprache                 |
 | ------------------------------------------------------- | ------------------------ |
 | [TutoHacks](https://github.com/welovejavascript)        | Deutsch                  |
 
@@ -34,7 +34,7 @@
 
 | Author                                              |
 | ----------------------------------------------------|
-| [SincerelyFaust](https://github.com/SincerelyFaust) |
+| [TutoHacks](https://github.com/welovejavascript) |
 
 ## Copyrights and Licence
 
