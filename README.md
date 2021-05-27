@@ -1,16 +1,15 @@
-# Discord Panel TutoHacks
+# Discord Panel Tverge
 
 
 ## Was macht diese Website besonders? 💎
 
-*   ⌛ **Einfache installation:** kopiere die ZIP, entpacke sie und öffnen sie dann [DiscordPanelTutoHacks](../index.html).
+*   ⌛ **Einfache installation:** kopiere die ZIP, entpacke sie und öffnen sie dann [DiscordPanelTverge](../index.html).
 *   🔒 **Sicherheit:** Dein Bot-Token ist lokal gespeichert, es besteht keine Gefahr, dass er gestohlen wird.
 *   👀 **Open source:** du hast Ideen die du selber umsetzen kannst? Benutze den Code und programmiere es rein!
-*   👀 **In entwicklung:** du hast Ideen die du nicht selber umsetzen kannst? Schreibe mir auf Discord oder komm einfach auf meinen [Discord](https://discord.gg/DsqvUFn)!
 
 ## Installation
 
-1.  Downloade den letzen [release](https://github.com/welovejavascript/DiscordPanel/releases)
+1.  Downloade den letzen [release](https://github.com/Tverge/DiscordPanel/releases)
 2.  Entpacke es mit WinRAR, 7zip, WinZip...
 3.  Gehe in das [Discord Developer Portal](https://discord.com/developers/applications) und hole dir einen Bot token
 4.  Öffne die [index.html](../index.html)
@@ -28,18 +27,18 @@
 
 | Author                                                  | Sprache                 |
 | ------------------------------------------------------- | ------------------------ |
-| [TutoHacks](https://github.com/welovejavascript)        | Deutsch                  |
+| [Tverge](https://github.com/Tverge)        | Deutsch                  |
 
 ### Anderes 👍
 
 | Author                                              |
 | ----------------------------------------------------|
-| [TutoHacks](https://github.com/welovejavascript) |
+| [Tverge](https://github.com/Tverge) |
 
 ## Copyrights and Licence
 
-Copyright © 2020-2021 [TutoHacks <tutohacks511@gmail.com>](https://github.com/welovejavascript)
+Copyright © 2020-2021 [Tverge <contact@tverge.eu>](https://github.com/Tverge)
 
-Dieses script ist mit [MIT](https://github.com/WeLoveJavaScript/DiscordPanel/blob/main/LICENSE) lizensiert
+Dieses script ist mit [MIT](https://github.com/Tverge/DiscordPanel/blob/main/LICENSE) lizensiert
 
 ***
